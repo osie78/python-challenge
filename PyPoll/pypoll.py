@@ -1,3 +1,4 @@
+#creates txt file
 f = open("results.txt","w")
    # printing header for output
 print("*************************")
